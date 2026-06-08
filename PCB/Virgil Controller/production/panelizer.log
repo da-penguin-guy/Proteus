@@ -1,0 +1,11 @@
+2026-06-06 14:09:07,841 - panelizer_logger - WARNING - Version check failed. "10.0.3" may not be supported. Panelizing may fail
+2026-06-06 14:09:14,965 - panelizer_logger - WARNING - 
+START: 2026-06-06T14:09:07.844023
+Zones filled by Panelizer.
+
+Board: C:/Users/robot/OneDrive/Documents/Virgil Controller/PCB/Virgil Controller\Production\Virgil Controller_panelized.kicad_pcb
+Board dimensions: 128.10 x 87.00 mm.
+You can fit 1 x 2 boards on the panel.
+Zones refilled by Panelizer.
+Warning: Ordering Instructions contains default values.
+
