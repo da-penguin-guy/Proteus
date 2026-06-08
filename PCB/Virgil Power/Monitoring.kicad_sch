@@ -4907,7 +4907,7 @@
 		(fields_autoplaced yes)
 		(uuid "ed1351b5-cfb1-4b10-b8ea-2da8ad8a0f28")
 		(property "Reference" "U13"
-			(at 80.645 65.405 0)
+			(at 80.645 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4915,7 +4915,7 @@
 			)
 		)
 		(property "Value" "BTS50080-1TEA"
-			(at 80.645 67.945 0)
+			(at 80.645 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
