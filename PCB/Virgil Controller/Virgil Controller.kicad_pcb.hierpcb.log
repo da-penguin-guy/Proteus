@@ -1,0 +1,82 @@
+Plugin v0.0.1 running on KiCad 10.0.3 and Python 3.11.5 (main, Jan 23 2026, 07:39:48) [MSC v.1944 64 bit (AMD64)] on win32.
+Config file C:\Users\robot\OneDrive\Documents\Virgil Controller\PCB\Virgil Controller\Virgil Controller.kicad_pcb.hierpcb.json not found. Creating new one.
+Imported C:\Users\robot\OneDrive\Documents\Virgil Controller\PCB\Virgil Controller\Virgil Controller.kicad_pcb, with 75 footprints, 1462 tracks, and 13 drawings.
+/ (+ PCB C:\Users\robot\OneDrive\Documents\Virgil Controller\PCB\Virgil Controller\Virgil Controller.kicad_pcb)
+├─ /Networking/
+├─ /Power/
+PCB C:\Users\robot\OneDrive\Documents\Virgil Controller\PCB\Virgil Controller\Virgil Controller.kicad_pcb
+  /6f33c0f7/e24ee6ca: D11
+  /7e8eff81: U1
+  /adca44f0: TP78
+  /4b308337: U2
+  /e5a26176: H2
+  /6f33c0f7/af0aafb6: TP18
+  /6f33c0f7/784ae059: D14
+  /6c001c85: C7
+  /6f33c0f7/a616f1b3: D12
+  /6f33c0f7/8ecd5661: TP12
+  /26d98fc5: C11
+  /e6775d00: J4
+  /5e87aace: R20
+  /13e3cb77: R1
+  /4d1a6a9e: Y1
+  /6f33c0f7/1618678d: R19
+  /830b36bf: U3
+  /aba67242: C2
+  /76c55ee8: C13
+  /6f33c0f7/0cb31383: R9
+  /6f33c0f7/e800fc63: U4
+  /6f33c0f7/81eaa3ac: R13
+  /6f33c0f7/5bb75ae0: R11
+  /6f33c0f7/e55f4702: C17
+  /6f33c0f7/8a733543: TP17
+  /00e5ae5a: C10
+  /86bc01c1: C8
+  /6f33c0f7/96e2fd56: R18
+  /6f33c0f7/5f1afb14: R12
+  /dea0fbc3: C15
+  /6f33c0f7/e95c3957: R10
+  /6f33c0f7/7e8d56c1: C18
+  /19ff9b77: R2
+  /c291a3c7: H1
+  /ee523510: C4
+  /ec4af1c3/87661cd5: U28
+  /a92756e6: C5
+  /6f33c0f7/719f25fd: R15
+  /6f33c0f7/21d42c60: U5
+  /6f33c0f7/ade7da72: C20
+  /6f33c0f7/088ff12d: R8
+  /923b04a8: C9
+  /6f33c0f7/46152b36: Y2
+  /af8a629c: R4
+  /6f33c0f7/4234e09a: C19
+  /328dfbd6: R21
+  /f5369de1: C6
+  /6f33c0f7/e1f4a5c1: R16
+  /ec4af1c3/a76e768b: J2
+  /6f33c0f7/1fceacfc: TP10
+  /6f33c0f7/fa107f74: TP15
+  /6f33c0f7/ad62196e: C16
+  /bcc56c47: C1
+  /69018b35: C12
+  /6f33c0f7/c5d02e2c: TP16
+  /7449cc1a: R5
+  /48655136: H4
+  /400b06ed: C14
+  /6f33c0f7/e4f41fd7: TP11
+  /bcaf900b: C3
+  /6f33c0f7/dc7b0364: R7
+  /6f33c0f7/7dd167bf: T2
+  /6f33c0f7/24c21c83: R6
+  /6f33c0f7/5ad9b267: R17
+  /e827ad54: L1
+  /6f33c0f7/c4487711: D13
+  /6f33c0f7/dc695813: C21
+  /dfc85ff7: J6
+  /6043ef21: J1
+  /6f33c0f7/2c826ef8: TP9
+  /6f33c0f7/d07b88ed: R3
+  /6f33c0f7/576a16eb: R14
+  /e6e9920d: H3
+  /75914e40: J3
+  /6f33c0f7/7e545ce2: J19
