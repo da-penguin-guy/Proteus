@@ -360,7 +360,7 @@
 			(at 0 -3.75 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "5af8d8b5-b20b-498f-b0c4-1d7c09e56b40")
+			(uuid "22eb75e6-818a-4590-aa19-3c6c64651509")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -371,7 +371,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 3.75 0)
 			(layer "F.Fab")
-			(uuid "28719f79-2b40-4a70-956b-9b083710c505")
+			(uuid "98fb8fb9-7b50-46dc-9078-ac8a0be9b3bf")
 			(effects
 				(font
 					(size 1 1)
@@ -383,7 +383,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a4e3bb47-c1fc-43b3-a2ac-a24268d06850")
+			(uuid "93032ffe-4723-4aaa-9d62-dd56b4c2c632")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -395,7 +395,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "62f39219-c13e-4685-8a5f-e0649421c64e")
+			(uuid "91046459-9496-4cd2-a089-9fa0b062b14e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -463,7 +463,6 @@
 		(embedded_fonts no)
 	)
 	(footprint "Snapeda:B103"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "96fbbe7f-1a8e-4682-b3ce-03274ab9c43a")
 		(at 148 108.638172 -90)
@@ -526,7 +525,7 @@
 				(pins "1" "2" "3" "A" "B" "t")
 			)
 		)
-		(attr smd)
+		(attr smd dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
 			(start -67.056 -7.874)
@@ -1098,7 +1097,7 @@
 				)
 			)
 		)
-		(attr smd)
+		(attr smd dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.5 -4.6)
@@ -4904,7 +4903,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "Crystal_GND24"
+		(property "Value" "ABM8-272-T3"
 			(at 0 -2.45 90)
 			(layer "B.Fab")
 			(uuid "3efdc2e7-14d6-4c83-b4ca-e065352c4fa9")

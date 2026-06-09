@@ -7553,7 +7553,7 @@
 				)
 			)
 		)
-		(property "Value" "Crystal_GND24"
+		(property "Value" "ABM8-272-T3"
 			(at 174.625 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10178,7 +10178,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a62cc49f-3e7d-4136-9359-edcc9f738968")
 		(property "Reference" "U1"
@@ -10508,7 +10508,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c01e5b2f-257a-4f20-b558-a5cfe4af368e")
 		(property "Reference" "J1"

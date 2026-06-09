@@ -5966,7 +5966,7 @@
 				)
 			)
 		)
-		(property "Value" "25MHZ"
+		(property "Value" "ABM3C-25.000MHZ-D4Y-T"
 			(at 112.395 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
