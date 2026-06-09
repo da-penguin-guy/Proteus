@@ -1,0 +1,5 @@
+2026-06-09 09:39:04,224 - panelizer_logger - WARNING - Version check failed. "10.0.3" may not be supported. Panelizing may fail
+2026-06-09 09:39:05,948 - panelizer_logger - ERROR - 
+START: 2026-06-09T09:39:04.225048
+Can not have X gaps without horizontal rails. Quitting.
+

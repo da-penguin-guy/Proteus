@@ -11215,7 +11215,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22pF"
+		(property "Value" "15pF"
 			(at 130.81 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11625,7 +11625,7 @@
 		(fields_autoplaced yes)
 		(uuid "4d1a6a9e-3b16-4775-9f78-a91d66bc46d8")
 		(property "Reference" "Y1"
-			(at 141.605 116.205 0)
+			(at 141.605 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11634,8 +11634,8 @@
 				)
 			)
 		)
-		(property "Value" "Crystal_GND24"
-			(at 141.605 118.745 0)
+		(property "Value" "ABM8-272-T3"
+			(at 141.605 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15480,7 +15480,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22pF"
+		(property "Value" "15pF"
 			(at 152.4 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16183,7 +16183,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3uH"
+		(property "Value" "AOTA-B201610S3R3-101-T"
 			(at 193.04 30.48 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16193,7 +16193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Pulse_PA4340"
+		(property "Footprint" "Snapeda:0806"
 			(at 193.04 33.02 0)
 			(hide yes)
 			(show_name no)
