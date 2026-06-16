@@ -1,3 +1,5 @@
 [submodule "Code/Motherboard/third_party/no-OS-FatFS-SD-SDIO-SPI-RPi-Pico"]
 	path = Code/Motherboard/third_party/no-OS-FatFS-SD-SDIO-SPI-RPi-Pico
 	url = https://github.com/carlk3/no-OS-FatFS-SD-SDIO-SPI-RPi-Pico
+[submodule "Code/Motherboard/third_party/SdFat"]
+	branch = master
