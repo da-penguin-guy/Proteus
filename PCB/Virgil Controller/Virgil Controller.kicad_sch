@@ -6877,16 +6877,6 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 31.115) (xy 76.835 31.115)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "085e593b-e53b-49f7-bbe8-4ea11ee72e8e")
-	)
-	(wire
-		(pts
 			(xy 186.69 41.91) (xy 186.69 43.815)
 		)
 		(stroke
@@ -6894,6 +6884,16 @@
 			(type default)
 		)
 		(uuid "09604be9-515b-4d84-a277-1396abd84357")
+	)
+	(wire
+		(pts
+			(xy 87.63 33.655) (xy 76.835 33.655)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b480075-6593-4bb1-acb2-1e4dabc0db87")
 	)
 	(wire
 		(pts
@@ -6964,6 +6964,16 @@
 			(type default)
 		)
 		(uuid "17c0451f-b9b2-4619-819f-a2b7ef1e2746")
+	)
+	(wire
+		(pts
+			(xy 53.34 61.595) (xy 64.135 61.595)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "185e8ba2-39a4-484b-a55d-2b1e12092a05")
 	)
 	(wire
 		(pts
@@ -7077,16 +7087,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 71.755) (xy 64.135 71.755)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28bfd2a4-8797-42e4-930c-6d5fffc3be19")
-	)
-	(wire
-		(pts
 			(xy 158.75 112.395) (xy 158.75 104.775)
 		)
 		(stroke
@@ -7094,6 +7094,16 @@
 			(type default)
 		)
 		(uuid "2b423123-10ba-4d77-8305-25f3f4799206")
+	)
+	(wire
+		(pts
+			(xy 87.63 28.575) (xy 76.835 28.575)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b7410d2-940d-4762-bba5-fc0eee132fc6")
 	)
 	(wire
 		(pts
@@ -7217,6 +7227,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 86.995) (xy 64.135 86.995)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d397892-1d2b-4da2-97b9-bd3645cc8be9")
+	)
+	(wire
+		(pts
 			(xy 243.205 91.44) (xy 251.46 91.44)
 		)
 		(stroke
@@ -7267,6 +7287,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 81.915) (xy 64.135 81.915)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42bca1ac-f6b1-4865-b641-5cca53a9d9b8")
+	)
+	(wire
+		(pts
 			(xy 222.885 135.255) (xy 214.63 135.255)
 		)
 		(stroke
@@ -7274,6 +7304,16 @@
 			(type default)
 		)
 		(uuid "43ad35c2-a750-4a90-a214-c5e3f1d9d17a")
+	)
+	(wire
+		(pts
+			(xy 53.34 74.295) (xy 64.135 74.295)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "445374ae-5a57-4752-b3b1-2ee5e5d1ac01")
 	)
 	(wire
 		(pts
@@ -7307,16 +7347,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 79.375) (xy 64.135 79.375)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4766b92b-71f6-4d0b-9ff7-661e6046f1f1")
-	)
-	(wire
-		(pts
 			(xy 64.135 105.41) (xy 73.66 105.41)
 		)
 		(stroke
@@ -7344,6 +7374,16 @@
 			(type default)
 		)
 		(uuid "49c9b697-e0b6-4748-9c97-2e5727e59dac")
+	)
+	(wire
+		(pts
+			(xy 87.63 36.195) (xy 76.835 36.195)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49f814c1-7cc9-4884-b31a-f541d44fb3a7")
 	)
 	(wire
 		(pts
@@ -7467,16 +7507,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 66.675) (xy 64.135 66.675)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50be132e-9c76-4bc1-922b-bba30bd2d443")
-	)
-	(wire
-		(pts
 			(xy 224.155 150.495) (xy 214.63 150.495)
 		)
 		(stroke
@@ -7484,16 +7514,6 @@
 			(type default)
 		)
 		(uuid "5259caa8-1317-488e-8ee4-137211be6989")
-	)
-	(wire
-		(pts
-			(xy 53.34 69.215) (xy 64.135 69.215)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53818deb-8fbb-4213-8a1f-d1f968ae3ee6")
 	)
 	(wire
 		(pts
@@ -7677,6 +7697,26 @@
 	)
 	(wire
 		(pts
+			(xy 155.575 132.715) (xy 163.83 132.715)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69819173-a5cd-4260-9975-eb9bbfbaef74")
+	)
+	(wire
+		(pts
+			(xy 87.63 31.115) (xy 76.835 31.115)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a5439d1-8900-465c-a825-5fed309c799e")
+	)
+	(wire
+		(pts
 			(xy 141.605 132.08) (xy 149.225 132.08)
 		)
 		(stroke
@@ -7684,16 +7724,6 @@
 			(type default)
 		)
 		(uuid "6d658b9b-3d24-4911-a3e5-18ded59eea81")
-	)
-	(wire
-		(pts
-			(xy 53.34 76.835) (xy 64.135 76.835)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f222d24-7b0e-4a51-b3f9-dede34171783")
 	)
 	(wire
 		(pts
@@ -7817,6 +7847,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 66.675) (xy 64.135 66.675)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f6b83ad-51a4-4802-b23d-846f533c3884")
+	)
+	(wire
+		(pts
 			(xy 55.245 152.4) (xy 69.85 152.4)
 		)
 		(stroke
@@ -7857,16 +7897,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 81.915) (xy 64.135 81.915)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ac321c4-5904-4dea-b1f0-29839c19c841")
-	)
-	(wire
-		(pts
 			(xy 117.475 152.4) (xy 105.41 152.4)
 		)
 		(stroke
@@ -7874,16 +7904,6 @@
 			(type default)
 		)
 		(uuid "8b26b545-ac89-42f0-9fce-b179333a96fc")
-	)
-	(wire
-		(pts
-			(xy 87.63 33.655) (xy 76.835 33.655)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ce00435-0105-41e3-bba3-b6b33ed219c4")
 	)
 	(wire
 		(pts
@@ -7897,13 +7917,13 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 74.295) (xy 64.135 74.295)
+			(xy 53.34 76.835) (xy 64.135 76.835)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "90066d74-7bcd-4a1f-a1a8-a761e6a32f6b")
+		(uuid "8e47ef88-efeb-4e5f-baa2-4da81dba5214")
 	)
 	(wire
 		(pts
@@ -7977,26 +7997,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 84.455) (xy 64.135 84.455)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9978391b-0053-4252-8ad8-7e75dc27e532")
-	)
-	(wire
-		(pts
-			(xy 87.63 28.575) (xy 76.835 28.575)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b3e528b-1c4d-4084-9e46-a76078cceb66")
-	)
-	(wire
-		(pts
 			(xy 67.31 125.73) (xy 73.66 125.73)
 		)
 		(stroke
@@ -8044,6 +8044,16 @@
 			(type default)
 		)
 		(uuid "a84ebccb-4567-4b22-930d-4b6dea09b3ca")
+	)
+	(wire
+		(pts
+			(xy 53.34 71.755) (xy 64.135 71.755)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa4afcf1-01a6-4a9e-8bef-15ac9be64925")
 	)
 	(wire
 		(pts
@@ -8167,6 +8177,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 64.135) (xy 64.135 64.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9c69c23-4223-478b-9bf5-2144ecb501f6")
+	)
+	(wire
+		(pts
 			(xy 225.425 84.455) (xy 214.63 84.455)
 		)
 		(stroke
@@ -8184,6 +8204,16 @@
 			(type default)
 		)
 		(uuid "bbe12293-eef0-4617-b719-bd8ced9aea79")
+	)
+	(wire
+		(pts
+			(xy 53.34 79.375) (xy 64.135 79.375)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc41f5fb-907c-49c6-ad7e-79b5c305c870")
 	)
 	(wire
 		(pts
@@ -8277,16 +8307,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 86.995) (xy 64.135 86.995)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c62fe209-b299-4abe-bf72-f6fa2e59d02a")
-	)
-	(wire
-		(pts
 			(xy 251.46 109.22) (xy 251.46 111.76)
 		)
 		(stroke
@@ -8294,16 +8314,6 @@
 			(type default)
 		)
 		(uuid "c69a0aa3-938f-423f-88be-2ea40f0a1fab")
-	)
-	(wire
-		(pts
-			(xy 53.34 64.135) (xy 64.135 64.135)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6b43991-50d3-4cd1-a781-8834e97f41f0")
 	)
 	(wire
 		(pts
@@ -8334,16 +8344,6 @@
 			(type default)
 		)
 		(uuid "c9b6f156-1bab-4973-81d4-c87c3570547c")
-	)
-	(wire
-		(pts
-			(xy 87.63 26.035) (xy 76.835 26.035)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cad3bcee-ccd1-4d65-9602-23be319331a3")
 	)
 	(wire
 		(pts
@@ -8387,16 +8387,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 61.595) (xy 64.135 61.595)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1a97c7b-ba60-416e-b334-93ad9dcf7a48")
-	)
-	(wire
-		(pts
 			(xy 54.61 28.575) (xy 64.135 28.575)
 		)
 		(stroke
@@ -8427,6 +8417,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 56.515) (xy 64.135 56.515)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8758539-ce7a-4ae5-8f84-cbd2edcacf24")
+	)
+	(wire
+		(pts
 			(xy 50.8 143.51) (xy 44.45 143.51)
 		)
 		(stroke
@@ -8434,6 +8434,16 @@
 			(type default)
 		)
 		(uuid "d91f0e6d-2120-45a3-8827-852c25f45546")
+	)
+	(wire
+		(pts
+			(xy 53.34 84.455) (xy 64.135 84.455)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9d6e94a-92a1-4dba-8d7b-04f605b3ad24")
 	)
 	(wire
 		(pts
@@ -8474,6 +8484,16 @@
 			(type default)
 		)
 		(uuid "e2bef837-1b3c-4e9e-bfc1-c83c79e0e378")
+	)
+	(wire
+		(pts
+			(xy 53.34 69.215) (xy 64.135 69.215)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e32dd91e-4a7e-4999-be4b-89f537f5dde1")
 	)
 	(wire
 		(pts
@@ -8537,13 +8557,13 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 59.055) (xy 64.135 59.055)
+			(xy 87.63 26.035) (xy 76.835 26.035)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f04260c3-7f4b-4872-abde-d0299a01159e")
+		(uuid "f2b66efd-3fc4-47b3-8257-ac58304d53c3")
 	)
 	(wire
 		(pts
@@ -8625,6 +8645,16 @@
 		)
 		(uuid "ff70058c-0820-4f07-82f1-cbe8245f2eb5")
 	)
+	(label "F0_GPIO"
+		(at 87.63 36.195 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "01635f28-addc-426c-9e58-c2db84f1d368")
+	)
 	(label "RADIO_~{INT}"
 		(at 55.245 152.4 0)
 		(effects
@@ -8655,6 +8685,16 @@
 		)
 		(uuid "0715e159-47d5-4a5d-94fa-b683f5ff1121")
 	)
+	(label "S5_GPIO"
+		(at 53.34 66.675 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0abd1869-cc2e-463c-9650-5de93f626427")
+	)
 	(label "S6_GPIO"
 		(at 225.425 117.475 180)
 		(effects
@@ -8675,6 +8715,26 @@
 		)
 		(uuid "0bcfe161-d46d-485d-9eed-6a0ddd4b1533")
 	)
+	(label "F5_GPIO"
+		(at 53.34 86.995 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0d1713ca-181b-427b-aa13-12dd876c8b4e")
+	)
+	(label "S3_GPIO"
+		(at 53.34 71.755 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0e6d5bb3-e49e-41d6-a4d8-6b46a3265946")
+	)
 	(label "QSPI_SCLK"
 		(at 143.51 38.1 180)
 		(effects
@@ -8685,15 +8745,25 @@
 		)
 		(uuid "0eb5c046-f653-497a-afde-98933885b9cc")
 	)
-	(label "S7_GPIO"
-		(at 53.34 59.055 0)
+	(label "F3_GPIO"
+		(at 87.63 28.575 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "11e7843f-2f78-4d81-b13d-144982363b61")
+	)
+	(label "S6_GPIO"
+		(at 53.34 64.135 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "111a5c3e-321e-4e50-8624-112de466e959")
+		(uuid "15e52499-054c-40f7-a201-4564d05e3085")
 	)
 	(label "F2_GPIO"
 		(at 225.425 86.995 180)
@@ -8745,6 +8815,16 @@
 		)
 		(uuid "22e09da2-b320-4f2e-bda2-85feb49b0b10")
 	)
+	(label "CS_~{EN}"
+		(at 55.88 56.515 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "25c6e454-1d06-4d53-ae17-6f9f192a6439")
+	)
 	(label "W5500_~{RESET}"
 		(at 55.245 162.56 0)
 		(effects
@@ -8754,26 +8834,6 @@
 			(justify left bottom)
 		)
 		(uuid "25ea887b-a45b-4700-8ebd-d827b3ff078e")
-	)
-	(label "F1_GPIO"
-		(at 87.63 31.115 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "27d96913-3edb-498f-8bd6-53f2052802df")
-	)
-	(label "S6_GPIO"
-		(at 53.34 61.595 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "28158894-90ba-48b2-ba02-13de2e5056c7")
 	)
 	(label "M_CLK"
 		(at 54.61 41.275 0)
@@ -8835,16 +8895,6 @@
 		)
 		(uuid "34a2eb22-8fd6-44f3-966d-05696aed0635")
 	)
-	(label "F0_GPIO"
-		(at 87.63 33.655 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "357aa84f-5056-4ade-b392-5f51f6b54a4b")
-	)
 	(label "RADIO_EN"
 		(at 153.035 142.875 0)
 		(effects
@@ -8855,15 +8905,15 @@
 		)
 		(uuid "35ac3cb0-3848-43ec-aeb5-acdc6685539e")
 	)
-	(label "F2_GPIO"
-		(at 87.63 28.575 180)
+	(label "S0_GPIO"
+		(at 53.34 79.375 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "3a8f9306-3f05-4d9f-8473-0a89f37d1fde")
+		(uuid "39584469-2547-4ac6-9b8a-6f9f3f6ca723")
 	)
 	(label "CC2"
 		(at 50.8 146.05 180)
@@ -8904,36 +8954,6 @@
 			(justify right bottom)
 		)
 		(uuid "41055d88-a66d-47a8-8f50-81c473daa5a8")
-	)
-	(label "S0_GPIO"
-		(at 53.34 76.835 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "43a0edd7-2ca9-4abe-809c-75735e246c2c")
-	)
-	(label "F4_GPIO"
-		(at 53.34 86.995 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "479a92a4-1f14-4b9e-9fa5-5e5e503ed57c")
-	)
-	(label "S3_GPIO"
-		(at 53.34 69.215 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4a1c03d9-eba5-4493-8e9d-c4b41d52400e")
 	)
 	(label "SD_CLK"
 		(at 222.885 132.715 180)
@@ -8985,16 +9005,6 @@
 		)
 		(uuid "508c0882-f943-43fb-b6e1-8b861202d2db")
 	)
-	(label "S5_GPIO"
-		(at 53.34 64.135 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "50b6768f-c5d8-40de-9edf-fcd8554f76c7")
-	)
 	(label "QSPI_SD3"
 		(at 163.83 97.155 180)
 		(effects
@@ -9004,16 +9014,6 @@
 			(justify right bottom)
 		)
 		(uuid "52ff5598-865d-460b-84ba-9bec1b4e2f46")
-	)
-	(label "F5_GPIO"
-		(at 53.34 84.455 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "587a092d-283e-45e3-aa3b-9d30a0d4a3ed")
 	)
 	(label "QSPI_SD0"
 		(at 163.83 89.535 180)
@@ -9115,6 +9115,16 @@
 		)
 		(uuid "6927ab71-6de5-4149-adee-d1ebccc3dcdb")
 	)
+	(label "S4_GPIO"
+		(at 53.34 69.215 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "69ba4c1e-ae3a-498b-8b30-871ae120a9db")
+	)
 	(label "NET_CLK"
 		(at 118.745 114.935 180)
 		(effects
@@ -9135,15 +9145,15 @@
 		)
 		(uuid "786b4049-2446-4961-a3e2-4e12d351f599")
 	)
-	(label "S1_GPIO"
-		(at 53.34 74.295 0)
+	(label "CS_~{EN}"
+		(at 155.575 132.715 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "790771c7-1294-415f-975e-e7a1b5c39042")
+		(uuid "792fd0d5-5845-4054-a88b-5687b0d47d1a")
 	)
 	(label "~{PWR_RST}"
 		(at 224.155 150.495 180)
@@ -9185,16 +9195,6 @@
 		)
 		(uuid "80672703-92a1-4daf-b003-c9e20b912dba")
 	)
-	(label "F7_GPIO"
-		(at 53.34 79.375 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "84ac57c5-b73c-4729-89b3-c97ba7c0e7d2")
-	)
 	(label "NET_MOSI"
 		(at 224.155 59.055 180)
 		(effects
@@ -9224,6 +9224,16 @@
 			(justify right bottom)
 		)
 		(uuid "8b037e5e-cdd2-484a-89ef-60d367768f45")
+	)
+	(label "S2_GPIO"
+		(at 53.34 74.295 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8eb05b65-edf5-405a-8a8b-60914b28034c")
 	)
 	(label "~{PWR_RST}"
 		(at 118.745 117.475 180)
@@ -9265,16 +9275,6 @@
 		)
 		(uuid "99862f4c-70a8-4b05-9ff6-16667d2ecae0")
 	)
-	(label "F3_GPIO"
-		(at 87.63 26.035 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "9cea674b-3510-4721-8dfe-dc9656ce9eac")
-	)
 	(label "M_MISO"
 		(at 224.155 71.755 180)
 		(effects
@@ -9295,15 +9295,15 @@
 		)
 		(uuid "9f5719e6-dcbd-4c86-a0f4-c9a53bc861af")
 	)
-	(label "S4_GPIO"
-		(at 53.34 66.675 0)
+	(label "F4_GPIO"
+		(at 87.63 26.035 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "a027bcb9-78dd-412f-9d5c-f533b4a93ce4")
+		(uuid "a2e790e7-29ef-4124-80aa-3a05257bc678")
 	)
 	(label "SD_D0"
 		(at 222.885 137.795 180)
@@ -9344,6 +9344,16 @@
 			(justify right bottom)
 		)
 		(uuid "a77aef10-491e-45a4-ba1d-30186f42e0f3")
+	)
+	(label "F2_GPIO"
+		(at 87.63 31.115 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a8ad663a-75b2-4994-b70a-074d8f7504cb")
 	)
 	(label "QSPI_SD2"
 		(at 163.83 94.615 180)
@@ -9464,6 +9474,16 @@
 			(justify right bottom)
 		)
 		(uuid "c31a4b83-4961-4510-895f-b793d48ce941")
+	)
+	(label "F6_GPIO"
+		(at 53.34 84.455 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c3eded3e-4833-4a4c-8e51-cfc6d604e8c0")
 	)
 	(label "M_MOSI"
 		(at 54.61 43.815 0)
@@ -9605,15 +9625,15 @@
 		)
 		(uuid "df348bcd-0fae-452b-9e41-4f464a87f41f")
 	)
-	(label "S2_GPIO"
-		(at 53.34 71.755 0)
+	(label "F1_GPIO"
+		(at 87.63 33.655 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "e0e87538-14ae-4bd6-86fe-5c81fc8145bc")
+		(uuid "e04c3113-01a8-4876-a520-259f543a5d1d")
 	)
 	(label "S1_GPIO"
 		(at 225.425 104.775 180)
@@ -9705,6 +9725,16 @@
 		)
 		(uuid "e802d9a0-597b-4bdd-86cb-9862b4260895")
 	)
+	(label "S7_GPIO"
+		(at 53.34 61.595 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "eb5c516c-62f2-41d0-b8d1-0175077fc079")
+	)
 	(label "F1_GPIO"
 		(at 225.425 84.455 180)
 		(effects
@@ -9775,6 +9805,16 @@
 		)
 		(uuid "f5ef6d55-4ace-4180-9dc4-d684207ba55b")
 	)
+	(label "S1_GPIO"
+		(at 53.34 76.835 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f6d9c0da-e181-48fa-9944-49ef930d4946")
+	)
 	(label "NET_MOSI"
 		(at 117.475 152.4 180)
 		(effects
@@ -9785,7 +9825,7 @@
 		)
 		(uuid "f7fb757b-b893-43fe-a1b2-29634da41f7e")
 	)
-	(label "F6_GPIO"
+	(label "F7_GPIO"
 		(at 53.34 81.915 0)
 		(effects
 			(font
@@ -9793,7 +9833,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "fa44c42a-2e32-4c55-a1f9-3e9a8f2b4c34")
+		(uuid "f82a77e2-ee54-4fae-96f6-62f999f23430")
 	)
 	(label "SD_D0"
 		(at 243.205 88.9 0)
@@ -9911,86 +9951,6 @@
 			(project "Virgil Controller"
 				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
 					(reference "C10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 76.835 48.895 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "01a0eabf-2dba-47db-bfdc-db4984a22467")
-		(property "Reference" "#PWR065"
-			(at 83.185 48.895 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 80.01 48.8949 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 76.835 48.895 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.835 48.895 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 76.835 48.895 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "01c5d50a-0fd1-4ddf-a30a-4825a41c83b0")
-		)
-		(instances
-			(project "Virgil Controller"
-				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
-					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -10556,86 +10516,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 76.835 36.195 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1ecbb3de-e6d4-42e4-a79d-0f00f90d430e")
-		(property "Reference" "#PWR050"
-			(at 83.185 36.195 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 80.01 36.1949 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 76.835 36.195 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.835 36.195 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 76.835 36.195 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5d55abcd-1801-4582-9413-a56c6cd1c4b4")
-		)
-		(instances
-			(project "Virgil Controller"
-				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
-					(reference "#PWR050")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
 		(at 210.82 20.955 0)
 		(unit 1)
@@ -10708,6 +10588,85 @@
 			(project "Virgil Controller"
 				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
 					(reference "#PWR051")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 76.835 46.355 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "22688134-b68c-428a-8b1d-b53c58df1b6a")
+		(property "Reference" "#PWR059"
+			(at 73.025 46.355 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 80.645 46.3549 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.835 46.355 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.835 46.355 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 76.835 46.355 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "81aa708c-c67e-4cfe-b445-3f523c1997be")
+		)
+		(instances
+			(project "Virgil Controller"
+				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -11043,8 +11002,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3916619e-c103-41c5-992f-ab26d732b399")
-		(property "Reference" "#PWR047"
+		(uuid "35509419-0b34-45bb-8754-8a0f7e948d05")
+		(property "Reference" "#PWR049"
 			(at 73.025 41.275 0)
 			(hide yes)
 			(show_name no)
@@ -11100,12 +11059,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "1bd1417c-dd5a-450d-b6f6-92bb2044e7f6")
+			(uuid "1e222eb9-641a-4831-8e38-f0214d789ef5")
 		)
 		(instances
 			(project "Virgil Controller"
 				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
-					(reference "#PWR047")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -11607,6 +11566,85 @@
 			(project "Virgil Controller"
 				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
 					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 76.835 48.895 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4d02f2cb-d297-49c8-8a4d-0fd8c51cc2ff")
+		(property "Reference" "#PWR054"
+			(at 83.185 48.895 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 80.01 48.8949 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.835 48.895 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.835 48.895 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 76.835 48.895 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a6935a24-608e-4318-b685-09de4ae519ae")
+		)
+		(instances
+			(project "Virgil Controller"
+				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -12472,6 +12510,85 @@
 			(project "Virgil Controller"
 				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
 					(reference "#PWR057")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 64.135 59.055 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6def9e18-4b9a-4b74-abfc-ac8fe84aa4b8")
+		(property "Reference" "#PWR053"
+			(at 57.785 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 60.96 59.0549 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 64.135 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.135 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 64.135 59.055 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "50b49e3c-793e-4152-a3ff-94468965e5f9")
+		)
+		(instances
+			(project "Virgil Controller"
+				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -13554,244 +13671,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 76.835 43.815 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "89bf30f4-c6f7-4518-9fea-f293fa82250d")
-		(property "Reference" "#PWR059"
-			(at 73.025 43.815 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 80.645 43.8149 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 76.835 43.815 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.835 43.815 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 76.835 43.815 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "743ef03a-03dc-48da-89f8-64799e999342")
-		)
-		(instances
-			(project "Virgil Controller"
-				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
-					(reference "#PWR059")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 76.835 46.355 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8b85b913-b2b6-416f-b6ce-0979783b5587")
-		(property "Reference" "#PWR054"
-			(at 83.185 46.355 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 80.01 46.3549 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 76.835 46.355 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.835 46.355 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 76.835 46.355 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ba59617d-48e8-4c83-8452-c342ab4e4ec0")
-		)
-		(instances
-			(project "Virgil Controller"
-				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
-					(reference "#PWR054")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 76.835 51.435 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "91b465e2-a269-47ca-9380-bdd670d29399")
-		(property "Reference" "#PWR064"
-			(at 73.025 51.435 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VCC"
-			(at 80.01 51.4349 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 76.835 51.435 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.835 51.435 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 76.835 51.435 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "53cf9e19-0ae2-4a0f-8e6b-43cde4116db0")
-		)
-		(instances
-			(project "Virgil Controller"
-				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
-					(reference "#PWR064")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 236.855 24.765 0)
 		(unit 1)
@@ -14274,6 +14153,86 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 76.835 51.435 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ace421f4-b3c3-4b9d-8c4f-7f0f6e034f12")
+		(property "Reference" "#PWR065"
+			(at 83.185 51.435 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 80.01 51.4349 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.835 51.435 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.835 51.435 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 76.835 51.435 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1728e914-ff4f-4a5b-b83d-2fd56085921c")
+		)
+		(instances
+			(project "Virgil Controller"
+				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
+					(reference "#PWR065")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 158.75 66.675 90)
 		(unit 1)
@@ -14346,6 +14305,86 @@
 			(project "Virgil Controller"
 				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
 					(reference "TP78")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 76.835 38.735 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "add1b841-71ee-449b-816e-4283e3cb30f8")
+		(property "Reference" "#PWR050"
+			(at 83.185 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 80.01 38.7349 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.835 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.835 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 76.835 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5a4e9755-d6da-42a1-b565-204380887be5")
+		)
+		(instances
+			(project "Virgil Controller"
+				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -14901,85 +14940,6 @@
 			(project "Virgil Controller"
 				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
 					(reference "#PWR040")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 76.835 38.735 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c28b1125-cc4e-4bf0-a319-781663294dd5")
-		(property "Reference" "#PWR049"
-			(at 73.025 38.735 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 80.645 38.7349 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 76.835 38.735 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.835 38.735 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 76.835 38.735 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "30bbc66b-1bef-4f64-8896-5daf4121e1bb")
-		)
-		(instances
-			(project "Virgil Controller"
-				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
-					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -16320,6 +16280,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 76.835 43.815 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ec84d62b-e670-4a7c-b630-48e2c12395df")
+		(property "Reference" "#PWR047"
+			(at 73.025 43.815 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 80.645 43.8149 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.835 43.815 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.835 43.815 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 76.835 43.815 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e3b2feb6-ceb7-49ad-b60e-2ab157bd1cba")
+		)
+		(instances
+			(project "Virgil Controller"
+				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 218.44 24.765 0)
 		(unit 1)
@@ -16395,85 +16434,6 @@
 			(project "Virgil Controller"
 				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
 					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 64.135 56.515 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f316bb2a-8740-4900-84bc-6148040f1822")
-		(property "Reference" "#PWR053"
-			(at 57.785 56.515 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 60.96 56.5149 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 64.135 56.515 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 64.135 56.515 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 64.135 56.515 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3e71b1ad-b6ae-4218-899c-3516a43d121b")
-		)
-		(instances
-			(project "Virgil Controller"
-				(path "/dc923545-4850-41f6-bb4c-865a26f006ed"
-					(reference "#PWR053")
 					(unit 1)
 				)
 			)

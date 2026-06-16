@@ -1,0 +1,105 @@
+# ninja log v6
+793	923	8033410305273805	pico-sdk/src/rp2350/boot_stage2/bs2_default_padded_checksummed.S	af6d6621ad7f7b3d
+2883	3344	8033410324986322	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj	e41c0f70badcb750
+60	195	8033410296784342	pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default.dir/compile_time_choice.S.obj	47c4523994a693de
+197	642	8033410302476153	pico-sdk/src/rp2350/boot_stage2/bs2_default.elf	4b5f9ce72b7bf9fc
+2314	2987	8033410319333379	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj	9442d80a30176475
+994	1700	8033410306116616	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq.c.obj	1a7559f5d5ec1789
+793	923	8033410305273805	C:/Users/robot/OneDrive/Documents/Virgil Controller/Code/Motherboard/build/pico-sdk/src/rp2350/boot_stage2/bs2_default_padded_checksummed.S	af6d6621ad7f7b3d
+197	642	8033410302476153	C:/Users/robot/OneDrive/Documents/Virgil Controller/Code/Motherboard/build/pico-sdk/src/rp2350/boot_stage2/bs2_default.dis	4b5f9ce72b7bf9fc
+2037	2587	8033410316571914	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj	c6ff9b93eb9cb28a
+197	642	8033410302476153	pico-sdk/src/rp2350/boot_stage2/bs2_default.dis	4b5f9ce72b7bf9fc
+642	792	8033410304019960	pico-sdk/src/rp2350/boot_stage2/bs2_default.bin	b51e3322867bd0b5
+3121	3553	8033410327415205	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/msc/msc_device.c.obj	d3c4fb5ab95aec24
+1034	1672	8033410306514667	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/common/pico_sync/mutex.c.obj	e153025fea67a98d
+624	1038	8033465049578800	Motherboard.dis	bb8c505e519ff748
+642	792	8033410304019960	C:/Users/robot/OneDrive/Documents/Virgil Controller/Code/Motherboard/build/pico-sdk/src/rp2350/boot_stage2/bs2_default.bin	b51e3322867bd0b5
+1005	1264	8033410306209521	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	f2b45da32de83b7a
+945	1349	8033410305625617	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2350/pico_platform/platform.c.obj	8753e417ab341ab7
+1057	2133	8033410306767558	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/common/pico_time/time.c.obj	743e8433bf663d1e
+2248	2507	8033410318665619	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_common_m33.S.obj	68d7e908c588e47d
+952	1406	8033410305691578	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_common/common.c.obj	2acddeae8dc69194
+969	1458	8033410305874840	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/common/hardware_claim/claim.c.obj	c1444427b6c93388
+2088	2570	8033410317091004	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_divider/divider_compiler.c.obj	eca066880fb44dde
+2413	3120	8033410320307244	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_printf/printf.c.obj	641259db47e8e938
+2703	3664	8033410323212902	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/device/usbd.c.obj	5c93be7c5aee0c40
+977	1483	8033410305939393	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync/sync.c.obj	ed0c744714dc9f04
+2178	2441	8033410317985146	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_sci_m33.S.obj	f6293d788580877d
+986	1529	8033410306034390	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj	2b06045927457add
+938	1550	8033410305566530	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_gpio/gpio.c.obj	51799768fb0e9620
+1530	2071	8033410311494386	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_pll/pll.c.obj	acdf388d015caf3a
+1024	1571	8033410306418924	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/common/pico_sync/lock_core.c.obj	bfa119272ec48b90
+1701	2247	8033410313201139	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xosc/xosc.c.obj	b9edc7fda6893f03
+931	1596	8033410305492311	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdlib/stdlib.c.obj	3b00afb42dc2866e
+2395	2853	8033410320105825	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	430a603ef7a0fa33
+2286	2814	8033410319052323	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_malloc/malloc.c.obj	ccd57a1b13aaae26
+624	1038	8033465049578800	C:/Users/robot/OneDrive/Documents/Virgil Controller/Code/Motherboard/build/Motherboard.hex	bb8c505e519ff748
+1045	1616	8033410306627368	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/common/pico_sync/critical_section.c.obj	d873f756a70b5969
+2426	2702	8033410320435215	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_crt0/crt0.S.obj	9dc648414bc7e379
+2134	2394	8033410317535475	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_aeabi_dcp.S.obj	fbbf0bf4c4db4c9
+960	1785	8033410305785229	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_panic/panic.c.obj	8bab733dbe011e47
+1075	1633	8033410306934595	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/common/pico_time/timeout_helper.c.obj	bd615f69a9981804
+2233	2491	8033410318513575	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_conv32_vfp.S.obj	adf9d0e336dc2451
+1015	1652	8033410306331351	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/common/pico_sync/sem.c.obj	29dca8bcd42a9adb
+1406	2232	8033410310241950	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/common/pico_util/queue.c.obj	9b0be6ac46f31fb5
+89	338	8033415255084649	CMakeFiles/Motherboard.dir/Motherboard.c.obj	a3b92c8dd9e56b22
+1098	1744	8033410307176150	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_timer/timer.c.obj	d4a8c011a9d6dde4
+1552	2036	8033410311716676	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_vreg/vreg.c.obj	cbf3be6e25534425
+2200	2425	8033410318193744	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_conv_m33.S.obj	7fc478a13526344
+1673	2302	8033410312912748	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_flash/flash.c.obj	6d685f6b33ddebb5
+1458	2055	8033410310772705	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_uart/uart.c.obj	ae139c10cd561b91
+1265	2088	8033410308851075	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/common/pico_util/datetime.c.obj	62eae0bea2971275
+1351	2108	8033410309689466	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/common/pico_util/pheap.c.obj	d2c2b97c30c00262
+1598	2150	8033410312187407	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_ticks/ticks.c.obj	93e47fbd640328c1
+1484	2176	8033410311028361	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_clocks/clocks.c.obj	85c04a89c3a77dd5
+1745	2285	8033410313647962	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime/runtime.c.obj	be9f84919c43a078
+1652	2199	8033410312696248	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj	d3a86891f1cc699
+1633	2217	8033410312530398	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj	88b214d80f427973
+2267	2522	8033410318864589	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj	1894d703443ab626
+1725	2266	8033410313449797	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_divider/divider.c.obj	47fbd11bddd56190
+2071	2314	8033410316890713	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj	d8a881a0b190cc74
+2151	2412	8033410317700990	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_fma_dcp.S.obj	979142bc15a64439
+1571	2459	8033410311892061	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_watchdog/watchdog.c.obj	cb2e36d586406df5
+1618	2476	8033410312375941	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom.c.obj	e8a5d619c405489b
+2057	2543	8033410316765615	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj	bf69ee1f7c4938df
+2522	3160	8033410321429096	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_unique_id/unique_id.c.obj	4afb53817dc9f92b
+1786	2638	8033410314055238	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj	ea62d854e9a265e0
+2109	2833	8033410317290322	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_math.c.obj	a8866eb18acf1870
+2303	2882	8033410319219765	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_atomic/atomic.c.obj	e3746f6e59ac38d5
+2218	2899	8033410318375024	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_math.c.obj	84efc8d248732d34
+2571	3022	8033410321895118	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj	464b4256e5c8b429
+2460	3224	8033410320797376	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio/stdio.c.obj	ffdc56ad67e8e09f
+2834	3265	8033410324531381	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/audio/audio_device.c.obj	274ac831c520fc6e
+2543	3287	8033410321617834	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_flash/flash.c.obj	107c361c8e102273
+2507	3307	8033410321255570	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj	9e131a832b66b2ad
+2477	3324	8033410320950229	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj	728b43944c36b625
+2900	3359	8033410325188939	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj	719d38b2cfcc6155
+2491	3376	8033410321089939	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj	6cca60766950d822
+2442	3392	8033410320616868	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj	1c55d982fd87b94c
+2987	3425	8033410326063145	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/hid/hid_device.c.obj	73658b814af48ed8
+3022	3457	8033410326394819	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/midi/midi_device.c.obj	ab286e303557d4eb
+2639	3474	8033410322589481	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj	bfe7b78c75f5efbc
+2588	3476	8033410322073170	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj	d59b029d29211d22
+2814	3560	8033410324330990	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/device/usbd_control.c.obj	b479bf756004dbf
+3160	3571	8033410327785045	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj	41c898b8f25448c5
+3458	3572	8033410330765853	pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.obj	26e0642277910061
+3225	3618	8033410328447824	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ncm_device.c.obj	8a192d2041e8179e
+3266	3643	8033410328874598	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj	fd7fcec2fe89bd47
+3307	3656	8033410329265818	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/video/video_device.c.obj	121e28dd27cc8a60
+2854	3667	8033410324719399	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj	b9e6cac5ed12db59
+3360	3669	8033410329789158	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj	ad1525669d6b58d5
+3377	3737	8033410329964847	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_spi/spi.c.obj	3f96ff25cbebd2ad
+3393	3781	8033410330124820	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_i2c/i2c.c.obj	265563cc8e905868
+3288	3800	8033410329073243	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj	aeeb80ca9aac2c3a
+3344	3843	8033410329632599	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/common/tusb_fifo.c.obj	345a0e0fa623168b
+3426	3844	8033410330436300	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_pio/pio.c.obj	2a4ed41c0267660d
+3325	3854	8033410329438460	CMakeFiles/Motherboard.dir/C_/Users/robot/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/tusb.c.obj	47565fb1e5737653
+624	1038	8033465049578800	Motherboard.elf	bb8c505e519ff748
+624	1038	8033465049578800	Motherboard.hex	bb8c505e519ff748
+624	1038	8033465049578800	Motherboard.bin	bb8c505e519ff748
+624	1038	8033465049578800	Motherboard.uf2	bb8c505e519ff748
+624	1038	8033465049578800	C:/Users/robot/OneDrive/Documents/Virgil Controller/Code/Motherboard/build/Motherboard.dis	bb8c505e519ff748
+624	1038	8033465049578800	C:/Users/robot/OneDrive/Documents/Virgil Controller/Code/Motherboard/build/Motherboard.bin	bb8c505e519ff748
+624	1038	8033465049578800	C:/Users/robot/OneDrive/Documents/Virgil Controller/Code/Motherboard/build/Motherboard.uf2	bb8c505e519ff748
+58	93	8033464813518173	C:/Users/robot/OneDrive/Documents/Virgil Controller/Code/Motherboard/build/CMakeFiles/cmake.verify_globs	34b830a88cf89b64
+93	623	8033465040214407	CMakeFiles/Motherboard.dir/Motherboard.cpp.obj	a0ebc317e58efec0

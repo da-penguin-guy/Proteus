@@ -1,0 +1,10 @@
+^C:\USERS\ROBOT\ONEDRIVE\DOCUMENTS\VIRGIL CONTROLLER\CODE\MOTHERBOARD\BUILD\CMAKEFILES\6A778056DCBBBB4F7C3DAE7E47711EDF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/robot/OneDrive/Documents/Virgil Controller/Code/Motherboard" "-BC:/Users/robot/OneDrive/Documents/Virgil Controller/Code/Motherboard/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/robot/OneDrive/Documents/Virgil Controller/Code/Motherboard/build/Motherboard.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

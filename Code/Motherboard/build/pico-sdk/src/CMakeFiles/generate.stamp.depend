@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Users/robot/.pico-sdk/sdk/2.2.0/src/CMakeLists.txt
+C:/Users/robot/.pico-sdk/sdk/2.2.0/src/cmake/on_device.cmake
+C:/Users/robot/.pico-sdk/sdk/2.2.0/src/cmake/rp2_common.cmake
+C:/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2350-arm-s.cmake
+C:/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2350/hardware_regs/include/hardware/regs/dreq.h
+C:/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2350/hardware_regs/include/hardware/regs/intctrl.h

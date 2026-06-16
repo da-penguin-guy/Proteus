@@ -677,16 +677,16 @@
       {
         "filename": "Virgil Backplane.kicad_sch",
         "name": "Virgil Backplane",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "83e6b29c-deb4-44d6-ab21-677fe2cd58e6"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR4-7,#PWR9,#PWR12,#PWR244",
     "variants": []
   },
   "sheets": [
     [
       "83e6b29c-deb4-44d6-ab21-677fe2cd58e6",
-      "Root"
+      "Virgil Backplane"
     ],
     [
       "47190894-c38d-4390-ab2a-6efad5e1e940",

@@ -7356,7 +7356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Snapeda:AMPHENOL_SFV20R-2STE1HLF"
+		(property "Footprint" "Snapeda:JUSHUO AFC07-S20FCC-00"
 			(at 46.355 52.705 0)
 			(hide yes)
 			(show_name no)

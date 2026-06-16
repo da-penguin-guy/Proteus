@@ -1,0 +1,12 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindPython/Support.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindPython3.cmake
+C:/Users/robot/.pico-sdk/picotool/2.2.0-a4/picotool/picotoolConfig.cmake
+C:/Users/robot/.pico-sdk/picotool/2.2.0-a4/picotool/picotoolConfigVersion.cmake
+C:/Users/robot/.pico-sdk/picotool/2.2.0-a4/picotool/picotoolTargets-release.cmake
+C:/Users/robot/.pico-sdk/picotool/2.2.0-a4/picotool/picotoolTargets.cmake
+C:/Users/robot/.pico-sdk/sdk/2.2.0/src/rp2350/boot_stage2/CMakeLists.txt
