@@ -1,12 +1,14 @@
-# Virgil Controller
+# The Proteus
 
-The Virgil Controller is a modular collection of PCBs that will be used to develop the Virgil sound Protocol
+The Proteus is a modular collection of PCBs that will be used to develop the Virgil sound Protocol
 
-![Virgil Controller Enclosure](Images/Screenshot%202026-06-09%20163426.png)
+Formerly known as the Virgil Controller, the Proteus is named after Proteus, a minor god from greek mythology. I chose this name because in Virgil's Georgics, he rapidly changes form, similar to how the Proteus is fully modular and can change quickly.
+
+![Proteus Enclosure](Images/Proteus%20Enclosure.png)
 
 ## Overview
 
-The Virgil Controller doesn't fall into a good product class, primarily because this hasn't ever been done before. The best analog would be some midi controller, like the [Behringer X-touch](https://www.behringer.com/en/products/0808-AAE). However, this varies from that in several cases. Firstly, it will be fully open source, modular, and future proof. The other main difference is that it won't be using the MIDI protocol. I will be using this as a hardware prototype to develop the [Virgil](https://github.com/da-penguin-guy/Virgil) live sound protocol. 
+The Proteus doesn't fall into a good product class, primarily because this hasn't ever been done before. The best analog would be some midi controller, like the [Behringer X-touch](https://www.behringer.com/en/products/0808-AAE). However, this varies from that in several cases. Firstly, it will be fully open source, modular, and future proof. The other main difference is that it won't be using the MIDI protocol. I will be using this as a hardware prototype to develop the [Virgil](https://github.com/da-penguin-guy/Virgil) live sound protocol. 
 
 The Virgil protocol is a companion protocol to Audinate's Dante protocol, the industry standard for live audio transfer via a network. However, there is a significant gap in Dante: It only encompasses the audio transportation, not any additional communication. This is especially important for digital stageboxes, where the mixer *needs* control over physical hardware controls such as gain and phantom power. Because Dante doesn't allow for control packets, every popular audio company has created their own proprietary standard for transporting the information. This means that, despite Dante's goal of allowing for equipment from different companies to work together, productions are still limited to a single brand if they want a functional ecosystem. 
 
@@ -14,21 +16,26 @@ The Virgil protocol solves this by being a universal language, allowing a variet
 
 ## Modules
 
+Cursor: Motor
+Speculum: Screen
+Ordo: Button
+
+
 The controller itself has 16 module slots, 8 on the bottom and 8 on the top. Electrically, the slots are identical, but the slots have different lengths.
 
 All modules (at this time) must have an rp2040/2350 microcontroller in them, and all communication over SPI.
 
-Currently, the only module for the top slot is a display module that has a 1.14" TFT display, a button with a neopixel, and a continuous encoder with a neopixel. The display is the same as the [Adafruit Newxie Tube](https://www.adafruit.com/product/6113), but just the panel can be found on [AliExpress](https://www.aliexpress.com/i/3256803593005387.html?gatewayAdapt=4itemAdapt#nav-description) for significantly cheaper. For more information, go to the [Virgil Screen](PCB/Virgil%20Screen/Virgil%20Screen.kicad_pro) kicad project.
+Currently, the only module for the top slot is a display module that has a 1.14" TFT display, a button with a neopixel, and a continuous encoder with a neopixel. The display is the same as the [Adafruit Newxie Tube](https://www.adafruit.com/product/6113), but just the panel can be found on [AliExpress](https://www.aliexpress.com/i/3256803593005387.html?gatewayAdapt=4itemAdapt#nav-description) for significantly cheaper. For more information, go to the [Proteus Speculum](PCB/Proteus%20Speculum/Virgil%20Screen.kicad_pro) kicad project.
 
-![Virgil Screen Rendering](Images/Virgil%20Screen.png)
+![Proteus Speculum Rendering](Images/Proteus%20Speculum.png)
 
-Currently, the only module for the bottom slot is a motorized fader using the B103 fader. These are the same faders used in the [Behringer X-Touch](https://www.sweetwater.com/store/detail/XTOUCHFADER--behringer-mf100t-motorized-faders-set-of-5-for-by-touch-series), but they can be found for significantly cheaper on [Alibaba](https://www.alibaba.com/product-detail/Toy-Sound-Box-Variable-Resistors-Fader_1601226018682.html?spm=a2700.galleryofferlist.normal_offer.d_title.1a4e13a0jfMknk&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=c0e033c3b4ef4eadbab299e74c6389cc). For more information, go to the [Virgil Motor](PCB/Virgil%20Screen/Virgil%20Screen.kicad_pro) kicad project.
+Currently, the only module for the bottom slot is a motorized fader using the B103 fader. These are the same faders used in the [Behringer X-Touch](https://www.sweetwater.com/store/detail/XTOUCHFADER--behringer-mf100t-motorized-faders-set-of-5-for-by-touch-series), but they can be found for significantly cheaper on [Alibaba](https://www.alibaba.com/product-detail/Toy-Sound-Box-Variable-Resistors-Fader_1601226018682.html?spm=a2700.galleryofferlist.normal_offer.d_title.1a4e13a0jfMknk&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=c0e033c3b4ef4eadbab299e74c6389cc). For more information, go to the [Proteus Cursor](PCB/Proteus%20Cursor/Virgil%20Motor.kicad_pro) kicad project.
 
 ## Internal PCBs
 
-The Virgil controller has 3 internal PCBs: The [Controller](#controller), The [Power](#power) Board, and The [Backplane](#backplane).
+The Proteus has 3 internal PCBs: The [Motherboard](#motherboard), The [Power](#power) Board, and The [Backplane](#backplane).
 
-### Controller
+### Motherboard
 This is the actual brain of the device.
 
 For external ports, it has an Ethercon port for networking and a USB-C port for programming.  
@@ -37,7 +44,7 @@ For Internal ports, it has 2 50 pin IDC connectors, each with different pinouts.
 
 For ICs the controller has an RP2350. It also has a W5500 for ethernet connectivity and the Raspberry Pi Radio Module 2 for wireless connectivity
 
-![Virgil Controller Rendering](Images/Virgil%20Controller.png)
+![Proteus Motherboard Rendering](Images/Proteus%20Motherboard.png)
 
 ### Power
 The power module is designed to be completely separated and isolated from the main board. This is primarily because I want for this to eventually have a battery powered option, but I don't want to deal with a BMS yet. 
@@ -56,4 +63,4 @@ The main purpose of the backplane is to route connections from the 50 pin connec
 
 The backplane does have some ICs on it. The most notable is a CD74HC154M96, used to split the 4 CS mux lines from the controller to 16 CS lines for the modules. There are also 2 MCP23017T-E/SS I2C expanders, used for supplying reset lines to the modules and detect lines. The backplane also has 16 SN74CBTLV1G125DCKR, one for each module. This is used to switch the SWD lines on or off for each module, using the CS line as the control signal. This is so that the controller can program every module automatically.
 
-![Virgil Backplane Rendering](Images/Virgil%20Backplane.png)
+![Proteus Backplane Rendering](Images/Proteus%20Backplane.png)

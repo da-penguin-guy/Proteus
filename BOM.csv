@@ -1,0 +1,23 @@
+Name,Count,Category,File/Link
+Proteus Motherboard,1,PCB,PCB\Proteus Motherboard
+Proteus Backplane,1,PCB,PCB\Proteus Backplane
+Proteus Power,1,PCB,PCB\Proteus Power
+Proteus Spectulum,8,PCB,PCB\Proteus Speculum
+Ribbon Adaptor,8,PCB,PCB\Ribbon Adaptor
+Proteus Cursor,8,PCB,PCB\Proteus Cursor
+"1.14"" TFT Display",8,Non PCB Electronics,https://www.aliexpress.com/i/3256803593005387.html?gatewayAdapt=4itemAdapt#nav-description
+Base,1,Enclosure,Enclosure\Part Studio 1.step
+Power Slide,1,Enclosure,Enclosure\Part Studio 1.step
+Lock Pin,1,Enclosure,Enclosure\Part Studio 1.step
+Fader Rail,1,Enclosure,Enclosure\Part Studio 1.step
+Midplate,1,Enclosure,Enclosure\Part Studio 1.step
+Screen Rail,1,Enclosure,Enclosure\Part Studio 1.step
+Fader Container Lid,8,Enclosure,Enclosure\Part Studio 1.step
+Fader Container,8,Enclosure,Enclosure\Part Studio 1.step
+Screen Container Lid,8,Enclosure,Enclosure\Part Studio 1.step
+Screen Container,8,Enclosure,Enclosure\Part Studio 1.step
+Knob,8,Enclosure,Enclosure\Part Studio 1.step
+Button,8,Enclosure,Enclosure\Part Studio 1.step
+Display Case,8,Enclosure,Enclosure\Virgil Screen.step
+M3x5x5 Heat set insert,198,Part,
+M3 Countersunk screw,198,Part,

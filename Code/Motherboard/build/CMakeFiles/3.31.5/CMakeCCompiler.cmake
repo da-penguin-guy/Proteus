@@ -77,5 +77,5 @@ endif()
 
 set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "C:/Users/robot/.pico-sdk/toolchain/14_2_Rel1/lib/gcc/arm-none-eabi/14.2.1/include;C:/Users/robot/.pico-sdk/toolchain/14_2_Rel1/lib/gcc/arm-none-eabi/14.2.1/include-fixed;C:/Users/robot/.pico-sdk/toolchain/14_2_Rel1/arm-none-eabi/include")
 set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "")
-set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "C:/Users/robot/.pico-sdk/toolchain/14_2_Rel1/lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp;C:/Users/robot/.pico-sdk/toolchain/14_2_Rel1/arm-none-eabi/lib/thumb/v8-m.main+fp/softfp;C:/Users/robot/.pico-sdk/toolchain/14_2_Rel1/lib/gcc/arm-none-eabi/14.2.1;C:/Users/robot/.pico-sdk/toolchain/14_2_Rel1/lib/gcc;C:/Users/robot/.pico-sdk/toolchain/14_2_Rel1/arm-none-eabi/lib")
+set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "C:/Users/robot/.pico-sdk/toolchain/14_2_Rel1/lib/gcc/arm-none-eabi/14.2.1/thumb/v6-m/nofp;C:/Users/robot/.pico-sdk/toolchain/14_2_Rel1/arm-none-eabi/lib/thumb/v6-m/nofp;C:/Users/robot/.pico-sdk/toolchain/14_2_Rel1/lib/gcc/arm-none-eabi/14.2.1;C:/Users/robot/.pico-sdk/toolchain/14_2_Rel1/lib/gcc;C:/Users/robot/.pico-sdk/toolchain/14_2_Rel1/arm-none-eabi/lib")
 set(CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")

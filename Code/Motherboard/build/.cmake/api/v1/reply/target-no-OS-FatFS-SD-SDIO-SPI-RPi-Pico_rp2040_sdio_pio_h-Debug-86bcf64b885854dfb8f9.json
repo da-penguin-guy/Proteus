@@ -1,0 +1,81 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"pico_generate_pio_header"
+		],
+		"files" : 
+		[
+			"C:/Users/robot/.pico-sdk/sdk/2.2.0/tools/CMakeLists.txt",
+			"third_party/no-OS-FatFS-SD-SDIO-SPI-RPi-Pico/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 252,
+				"parent" : 1
+			}
+		]
+	},
+	"id" : "no-OS-FatFS-SD-SDIO-SPI-RPi-Pico_rp2040_sdio_pio_h::@19f94802f872b59872e7",
+	"name" : "no-OS-FatFS-SD-SDIO-SPI-RPi-Pico_rp2040_sdio_pio_h",
+	"paths" : 
+	{
+		"build" : "third_party/no-OS-FatFS-SD-SDIO-SPI-RPi-Pico/src",
+		"source" : "third_party/no-OS-FatFS-SD-SDIO-SPI-RPi-Pico/src"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"isGenerated" : true,
+			"path" : "build/third_party/no-OS-FatFS-SD-SDIO-SPI-RPi-Pico/src/CMakeFiles/no-OS-FatFS-SD-SDIO-SPI-RPi-Pico_rp2040_sdio_pio_h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/third_party/no-OS-FatFS-SD-SDIO-SPI-RPi-Pico/src/CMakeFiles/no-OS-FatFS-SD-SDIO-SPI-RPi-Pico_rp2040_sdio_pio_h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/third_party/no-OS-FatFS-SD-SDIO-SPI-RPi-Pico/src/rp2040_sdio.pio.h.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

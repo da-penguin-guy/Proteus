@@ -1,0 +1,3 @@
+All 3d models were made in onshape. The link can be found here: https://cad.onshape.com/documents/d399654ec14494d1790123eb/w/8a950a518b7c39473549627b/e/b128ff8ea3088b92f5d37e80?renderMode=0&uiState=6a4029aad9e7363edd603c93
+
+The size of all heat set inserts can be adjusted in the variable studio.

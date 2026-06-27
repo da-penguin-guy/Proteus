@@ -40,6 +40,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("C:/Users/robot/OneDrive/Documents/Virgil Controller/Code/Motherboard/build/pico-sdk/cmake_install.cmake")
+  include("C:/Users/robot/OneDrive/Documents/Virgil Controller/Code/Motherboard/build/third_party/no-OS-FatFS-SD-SDIO-SPI-RPi-Pico/src/cmake_install.cmake")
 
 endif()
 
